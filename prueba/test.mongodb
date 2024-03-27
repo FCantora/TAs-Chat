@@ -1,0 +1,3 @@
+use("chat");
+
+db.users.insertOne({ name: "John Doe", age: 30, email: "q5o3v@example.com" });

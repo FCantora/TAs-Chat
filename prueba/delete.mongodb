@@ -1,0 +1,3 @@
+use("chat");
+
+db.users.delete({_id: ObjectId("66019bef8b5128388d364122")});
